@@ -5,7 +5,7 @@ A TIME PERIOD OF WINDOW:
 START DATE: 2023-12-02
 END DATE: 2023-12-15
 
-For the following keyword ids sales is 0 and cost more than 0:
+For the following keyword ids sales is 0 and cost more than zero:
     Sno | keyword_id | Cost |
     1. | 144136466260203801 | 6.42 
     2. | 144231329461653011 | 5.97 
