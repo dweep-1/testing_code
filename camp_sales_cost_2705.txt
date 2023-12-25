@@ -1,0 +1,29 @@
+This report is for campaign group : SB Monistat - Yeast: Category(2705)
+The following campaign data is included: GO | SB | Monistat | Category | Yeast | KW(144177364139813134)
+
+A TIME PERIOD OF WINDOW:
+START DATE: 2023-12-02
+END DATE: 2023-12-15
+
+For the following keyword ids sales is 0 and cost more than 0:
+    Sno | keyword_id | Cost |
+    1. | 144136466260203801 | 6.42 
+    2. | 144231329461653011 | 5.97 
+    3. | 144263276462611112 | 10.290000000000001 
+    4. | 144298563558519500 | 5.64 
+    5. | 144306748530062471 | 2.16 
+    6. | 144324195516436128 | 3.83 
+    7. | 144337210308067897 | 12.870000000000001 
+    8. | 144366519294268692 | 5.81 
+    9. | 144395249313252243 | 2.68 
+For the following keyword IDs, clicks are greater than the sum of standard deviation and mean clicks:
+    s.no. | Keyword ID | Impressions | Dates 
+    1. | 144136466260203801 | 32.0 | 23-12-10, 23-12-15
+    1. | 144231329461653011 | 26.0 | 23-12-13
+    1. | 144263276462611112 | 37.0 | 23-12-11, 23-12-12
+    1. | 144298563558519500 | 7.0 | 23-12-06, 23-12-07, 23-12-11
+    1. | 144306748530062471 | 4.0 | 23-12-03
+    1. | 144324195516436128 | 1.0 | 23-12-11
+    1. | 144337210308067897 | 69.0 | 23-12-06, 23-12-12
+    1. | 144366519294268692 | 29.0 | 23-12-04
+    1. | 144395249313252243 | 41.0 | 23-12-08

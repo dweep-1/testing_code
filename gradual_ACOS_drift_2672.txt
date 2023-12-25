@@ -1,0 +1,41 @@
+This report is for campaign group : SB Summer's Eve - Spray: Competitor(2672)
+The following campaign data is included: GO: SB | SE | Spray | Competitor | KW(144290145836674074)
+
+ WINDOW 1:
+START DATE:2023-11-29
+END DATE:2023-12-13
+
+ WINDOW 2:
+START DATE:2023-11-14
+END DATE:2023-11-28
+
+For the following keyword ids, ACoS has suddenly increased:
+    Sno|keyword_id|keyword_text|% ACoS increase
+    1.144128018356106863 | fds intimate deodorant spray | 21.13%
+    2.144186148557060102 | fds feminine deodorant spray extra strength | inf%
+    3.144190959638164691 | vagisil spray deodorant | inf%
+    4.144228059685093710 | fds spray | 90.59%
+    5.144261575999300284 | fds spray for women | inf%
+    6.144300793546166614 | vagisil spray | 26.5%
+    7.144304492531511566 | fds spray for women | 114.09%
+    8.144336963830137603 | fds feminine deodorant spray | 44.07%
+    9.144360114608505219 | fds intimate body dry | inf%
+    10.144363140338796062 | honey pot spray amber | 96.36%
+    11.144378146786444241 | vagisil spray | 46.48%
+Root cause analysis
+  1. For the following keyword from above, ACoS increased because ML decreased the bids this decreasing the sales:
+    NULL 
+
+  2. For the following keyword from above, ML had no impact on bids. ACoS increased due to external factors such as:
+    Sno,keyword_id,keyword_text 
+    1. 144128018356106863 | fds intimate deodorant spray
+    2. 144186148557060102 | fds feminine deodorant spray extra strength
+    3. 144190959638164691 | vagisil spray deodorant
+    4. 144228059685093710 | fds spray
+    5. 144261575999300284 | fds spray for women
+    6. 144300793546166614 | vagisil spray
+    7. 144304492531511566 | fds spray for women
+    8. 144336963830137603 | fds feminine deodorant spray
+    9. 144360114608505219 | fds intimate body dry
+    10. 144363140338796062 | honey pot spray amber
+    11. 144378146786444241 | vagisil spray
